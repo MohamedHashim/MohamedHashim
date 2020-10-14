@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm eager to learn and have passion of coding and problem solving👋
 
 <!--
 **MohamedHashim/MohamedHashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
